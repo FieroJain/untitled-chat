@@ -30,7 +30,9 @@ export function SiteFooter() {
             <ul className="space-y-3">
               {[
                 { label: 'Heritage', href: '/#heritage' },
+                { label: 'Hotel Smart 24/7', href: '/#hotel-smart' },
                 { label: 'The Collection', href: '/collection' },
+                { label: 'Wholesale', href: '/#wholesale' },
                 { label: 'Partnership', href: '/#partnership' },
                 { label: 'Register Your Kitchen', href: '/#contact' },
               ].map((link) => (
